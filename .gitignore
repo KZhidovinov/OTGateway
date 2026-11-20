@@ -12,3 +12,9 @@ sdkconfig.*
 CMakeLists.txt
 !sdkconfig.defaults
 !.gitkeep
+
+# .NET
+bin/
+obj/
+*.user
+TestResults/
